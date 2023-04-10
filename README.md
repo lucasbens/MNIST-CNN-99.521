@@ -5,6 +5,8 @@ This is the README file for the [Kaggle MNIST Digit Recognizer project](https://
 ## Project Overview
 
 The Kaggle Digit Recognizer (MNIST) project is a classification problem in which we are asked to predict the handwritten digits from the MNIST dataset.
+* `train.csv` and `test.csv`: The original data provided by Kaggle are available [here](https://www.kaggle.com/competitions/digit-recognizer/data) .
+
 
 ## Approach
 
@@ -32,9 +34,9 @@ My approach to solving this problem involved several steps:
 
 This repository contains the following files:
 
-- `train.csv` and `test.csv`: The original data provided by Kaggle.
 - `Kaggle_MNIST_Digit_Recognizer.ipynb`: The Jupyter notebook containing our code for data preprocessing, model architecture, training, evaluation, and submission.
 - `submission.csv`: The final predictions submitted to the Kaggle leaderboard.
+
 
 ## Dependencies
 
