@@ -1,6 +1,6 @@
 # Kaggle Digit Recognizer (MNIST) Project - README
 
-This is the README file for the [Kaggle MNIST Digit Recognizer project](https://www.kaggle.com/c/digit-recognizer), in which I achieved an [accuracy of 99.521%](https://www.kaggle.com/code/yourusername/digit-recognizer-top-10) on the leaderboard (top 8%).
+This is the README file for the [Kaggle MNIST Digit Recognizer project](https://www.kaggle.com/c/digit-recognizer), in which I achieved an [accuracy of 99.521%](https://www.kaggle.com/code/lucasbensaid/digit-recognizer-top-8-99-521) on the leaderboard (top 8%).
 
 ## Project Overview
 
